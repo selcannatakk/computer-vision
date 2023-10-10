@@ -1,0 +1,3 @@
+image-classification/yolo-v8/runs/*
+object-detection/runs/*
+semantic-segmentation/weights/yolov8n-seg.pt

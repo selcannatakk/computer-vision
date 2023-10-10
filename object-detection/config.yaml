@@ -1,0 +1,11 @@
+
+path: C:/Users/selca/Selcan_Atak/artificial-intelligence/data/data-safety-signs
+train: images/train
+val: images/train
+
+# Classes
+names:
+  0: prohibitory
+  1: danger
+  2: mandatory
+  3: other

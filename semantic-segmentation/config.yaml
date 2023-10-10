@@ -1,0 +1,6 @@
+path: C:/Users/selca/Selcan_Atak/artificial-intelligence/computer-vision/semantic-segmentation
+train: images/train
+val: images/val
+
+nc: 1  # class
+names: ['person']
