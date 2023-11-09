@@ -3,3 +3,6 @@ object-detection/runs/*
 semantic-segmentation/weights/yolov8n-seg.pt
 image-classification/DCGAN_Synthetic_Data_Generation/*
 image-classification/fire_smoke/*
+object-detection/traffic_safety_signs_object_detection/data_preprocessing*
+*pt
+*.png

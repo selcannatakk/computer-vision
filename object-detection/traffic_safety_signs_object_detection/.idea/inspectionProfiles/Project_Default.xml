@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="onnxruntime" />
+            <item index="1" class="java.lang.String" itemvalue="smplx" />
+            <item index="2" class="java.lang.String" itemvalue="torch" />
+            <item index="3" class="java.lang.String" itemvalue="torchvision" />
+            <item index="4" class="java.lang.String" itemvalue="onnx" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tensorflow.keras" />
+          <option value="tensorflow.data" />
+          <option value="bing_image_downloader" />
+          <option value="matplotlib.pyplot" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
